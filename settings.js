@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['91**********']
-global.premium = ['91**********']
-global.ownernomer = '91**********'
-global.ownername = '𝑺𝑶𝑼𝑳 𝑫𝑶𝑴𝑰𝑵𝑨𝑻𝑶𝑹'
-global.botname = '𝑫𝑶𝑴𝑰𝑵𝑨𝑻𝑶𝑻 𝑺𝑬𝑹 𝑩𝑶𝑻'
-global.footer = '©sᴇʀᴅᴏᴍɪɴᴀᴛᴏʀ'
-global.ig = 'https://github.com/dominator454'
+global.owner = ['918617845264']
+global.premium = ['918617845264']
+global.ownernomer = '918617845264'
+global.ownername = '❥͜͡𝄟♥⃝Ⴤσυ†υвє|ᖇuρ࿐ཽ༵•❥͜͡★'
+global.botname = '🐦ᴹᴿ᭄ Rup-BOTz-Ofcོ ×፝֟͜×💖'
+global.footer = '©s🐦ᴹᴿ᭄ RupOfcོ ×፝֟͜×💖'
+global.ig = '🐦ᴹᴿ᭄ RupOfcོ ×፝֟͜×💖'
 global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/dominator454/Gojo-Satoru'
-global.myweb = 'https://youtube.com/channel/UCuYd8PWkU5QDCExj-ku8bGQ'
-global.packname = '𝑰𝑻𝒁 𝑴𝑬 𝑺𝑶𝑼𝑳 𝑫𝑶𝑴𝑰𝑵𝑨𝑻𝑶𝑻'
-global.author = '𝑰𝑻𝒁 𝑴𝑬 𝑺𝑶𝑼𝑳 𝑫𝑶𝑴𝑰𝑵𝑨𝑻𝑶𝑹'
+global.sc = '🐦ᴹᴿ᭄ RupOfcོ ×፝֟͜×💖'
+global.myweb = '❥͜͡𝄟♥⃝Ⴤσυ†υвє|ᖇuρ࿐ཽ༵•❥͜͡★'
+global.packname = '🐦ᴹᴿ᭄ Rup-BOTz-Ofcོ ×፝֟͜×💖'
+global.author = 'BY ❥͜͡𝄟♥⃝Ⴤσυ†υвє|ᖇuρ࿐ཽ༵•❥͜͡★'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
@@ -42,7 +42,7 @@ global.mess = {
     group: 'Feature Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This Feature Is Only For Bot',
-    wait: 'Wait A minute...',
+    wait: 'Wait A minute darling🥵💖...',
     error: 'Error! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
